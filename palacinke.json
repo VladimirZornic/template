@@ -1,0 +1,37 @@
+{
+  "response":[
+   {
+     "id":0,
+     "productId":3,
+     "title":"palacinke",
+     "name":"Prazna palacinka",
+     "composition":[""],
+     "size":"1",
+     "path":"",
+     "img": "palacinka.png",
+     "price":50
+   },
+   {
+     "id":1,
+     "productId":3,
+     "title":"palacinke",
+     "name":"Palacinka secer",
+     "composition":["Secer"],
+     "size":"1",
+     "path":"",
+     "img": "palacinka.png",
+     "price":80
+   },
+   {
+     "id":2,
+     "productId":3,
+     "title":"palacinke",
+     "name":"Palacinka krem, plazma",
+     "composition":["krem","plazma"],
+     "size":"1",
+     "path":"",
+     "img": "palacinka.png",
+     "price":120
+   }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "response": [
+  {
+    "id":"1",
+    "productId":1,
+    "title":"rostilj",
+    "name":"Pljeskavica Mala",
+    "composition":["Meso","Kackavalj"],
+    "size":"100g",
+    "path":"",
+    "img": "pljeskavica.png",
+    "price":150
+  },
+  {
+    "id":"2",
+    "productId":1,
+    "title":"rostilj",
+    "name":"Pljeskavica Srednja",
+    "composition":["Meso","Kackavalj"],
+    "size":"150g",
+    "path":"",
+    "img": "pljeskavica.png",
+    "price": 180
+  },
+  {
+    "id":"3",
+    "productId":1,
+    "title":"rostilj",
+    "name":"Pljeskavica Velika",
+    "composition":["Meso","Kackavalj"],
+    "size":"200g",
+    "path":"",
+    "img": "pljeskavica.png",
+    "price":200
+  },
+  {
+    "id":"4",
+    "productId":1,
+    "title":"rostilj",
+    "name":"Raznjici",
+    "composition":["Slanina"],
+    "size":"180g",
+    "path":"",
+    "img": "raznjici.jpg",
+    "price":200
+  },
+  {
+    "id":"5",
+    "productId":1,
+    "title":"rostilj",
+    "name":"Rolovano belo",
+    "composition":["Belo meso","Kackavalj"],
+    "size":"150g",
+    "path":"",
+    "img": "belo.jpg",
+    "price":180
+  },
+  {
+    "id":"6",
+    "productId":1,
+    "title":"rostilj",
+    "name":"Punjena pljeskavica",
+    "composition":["Meso","Kackavalj","Sunka"],
+    "size":"200g",
+    "path":"",
+    "img": "pljeskavica.png",
+    "price":210
+  }
+]}

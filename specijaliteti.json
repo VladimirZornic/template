@@ -1,0 +1,27 @@
+{
+  "response":[
+   {
+     "id":0,
+     "productId":99,
+     "name":"NAZIV SPECIJALITETA",
+     "composition":["Kackavalj","Pecurke","Sunka"],
+     "size":"30cm",
+     "path":"",
+     "img": "specijalitet.png",
+     "price":500,
+     "description":"Lorem ipsum dolor sit amet, omittam elaboraret pro no, has cu ubique latine, pri ne autem sadipscing appellantur."
+   },
+   {
+     "id":1,
+     "productId":99,
+     "name":"NAZIV SPECIJALITETA 2",
+     "composition":["Pecurke","Sunka"],
+     "size":"60cm",
+     "path":"",
+     "img": "specijalitet.png",
+     "price":550,
+     "description":"Lorem ipsum dolor sit amet, omittam elaboraret pro no, has cu ubique latine, pri ne autem sadipscing appellantur."
+   }
+
+  ]
+}

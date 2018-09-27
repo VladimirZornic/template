@@ -1,0 +1,48 @@
+{
+  "response":[
+   {
+     "id":0,
+     "productId":2,
+     "title":"pice",
+     "name":"Capricoza",
+     "composition":["Kackavalj","Pecurke","Sunka"],
+     "size":"30cm",
+     "path":"",
+     "img": "pica.jpg",
+     "price":150
+   },
+   {
+     "id":1,
+     "productId":2,
+     "title":"pice",
+     "name":"Capricoza",
+     "composition":["Kackavalj","Pecurke","Sunka"],
+     "size":"60cm",
+     "path":"",
+     "img": "pica.jpg",
+     "price":180
+   },
+   {
+     "id":2,
+     "productId":2,
+     "title":"pice",
+     "name":"Capricoza",
+     "composition":["Kackavalj","Pecurke","Sunka"],
+     "size":"90cm",
+     "path":"",
+     "img": "pica.jpg",
+     "price":200
+   },
+   {
+     "id":3,
+     "productId":2,
+     "title":"pice",
+     "name":"Margarite",
+     "composition":["Kackavalj","Pecurke","Suvi vrat"],
+     "size":"80cm",
+     "path":"",
+     "img": "pica.jpg",
+     "price":190
+   }
+  ]
+}
