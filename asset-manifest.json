@@ -1,14 +1,16 @@
 {
-  "main.css": "static/css/main.51ec1282.css",
-  "main.css.map": "static/css/main.51ec1282.css.map",
-  "main.js": "static/js/main.803a6c8c.js",
-  "main.js.map": "static/js/main.803a6c8c.js.map",
-  "static/media/background.jpg": "static/media/background.b9a88bb4.jpg",
-  "static/media/bc2.jpg": "static/media/bc2.ce1e777a.jpg",
+  "main.css": "static/css/main.bdbd7320.css",
+  "main.css.map": "static/css/main.bdbd7320.css.map",
+  "main.js": "static/js/main.6bfb00bd.js",
+  "main.js.map": "static/js/main.6bfb00bd.js.map",
   "static/media/belo.jpg": "static/media/belo.ccab4031.jpg",
   "static/media/chees.png": "static/media/chees.dec63931.png",
   "static/media/food.png": "static/media/food.86eda389.png",
   "static/media/food2.png": "static/media/food2.d181e241.png",
+  "static/media/food3.png": "static/media/food3.b5d50b1f.png",
+  "static/media/img1.jpeg": "static/media/img1.a35ca4e1.jpeg",
+  "static/media/img2.jpeg": "static/media/img2.200f2841.jpeg",
+  "static/media/img3.jpeg": "static/media/img3.daf46102.jpeg",
   "static/media/instagram.png": "static/media/instagram.ee015683.png",
   "static/media/logo.png": "static/media/logo.63e39c01.png",
   "static/media/palacinka.png": "static/media/palacinka.cb98d555.png",
@@ -16,9 +18,5 @@
   "static/media/pica.jpg": "static/media/pica.e8f60350.jpg",
   "static/media/pljeskavica.png": "static/media/pljeskavica.64124f87.png",
   "static/media/raznjici.jpg": "static/media/raznjici.c9fd35aa.jpg",
-  "static/media/slide1.jpeg": "static/media/slide1.e679b3f3.jpeg",
-  "static/media/slide2.jpeg": "static/media/slide2.daf46102.jpeg",
-  "static/media/slide3.jpeg": "static/media/slide3.e79d3573.jpeg",
-  "static/media/slide4.jpeg": "static/media/slide4.ddfbb182.jpeg",
-  "static/media/specijalitet.png": "static/media/specijalitet.b78a4450.png"
+  "static/media/specijalitet.png": "static/media/specijalitet.a53d6fc0.png"
 }
